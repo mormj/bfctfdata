@@ -786,19 +786,6 @@ blocks:
     coordinate: [1384, 20.0]
     rotation: 0
     state: true
-- name: import_0_0
-  id: import
-  parameters:
-    alias: ''
-    comment: ''
-    imports: import scipy
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [1368, 108.0]
-    rotation: 0
-    state: enabled
 - name: import_1
   id: import
   parameters:
